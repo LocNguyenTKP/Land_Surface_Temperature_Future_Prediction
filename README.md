@@ -35,6 +35,7 @@ Use the trained model to predict LST and analyze the output. The results are use
 
 * ### Step 8: Results Handling
 Output the prediction results to TIFF files and store them back to Google Drive or display them directly from the script for analysis and reporting.
+
 ![image](https://github.com/LocNguyenTKP/Land_Surface_Temperature_Future_Prediction/assets/66542803/951a718c-283e-40af-bd8a-2b8ea6985c3c)
 
 ## Conclusion
