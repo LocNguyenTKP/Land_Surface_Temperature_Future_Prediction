@@ -1,3 +1,5 @@
+![image](https://github.com/LocNguyenTKP/Land_Surface_Temperature_Future_Prediction/assets/66542803/98d919fc-bd4f-4e0d-818b-789bb27dea87)
+
 # Land_Surface_Temperature_Future_Prediction
 
 ## Project Summary
